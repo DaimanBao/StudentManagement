@@ -23,7 +23,7 @@
             <div class="card main-card">
                 <div class="row g-0">
                     <div class="col-md-5 welcome-section d-flex flex-column justify-content-center">
-                        <h1 class="fw-bold mb-3">Xin chào, Bảo!</h1>
+                        <h1 class="fw-bold mb-3">Xin chào!</h1>
                         <p class="lead opacity-75">Chào mừng bạn đến với Hệ thống Quản lý Tốt nghiệp và Việc làm Sinh viên.</p>
                         <hr class="my-4 opacity-25">
                         <small class="opacity-50">© 2026 Quy Nhon University - Software Engineering</small>
@@ -36,7 +36,7 @@
                             <div class="icon-box">📝</div>
                             <div>
                                 <div class="fw-bold">Khai báo tốt nghiệp</div>
-                                <small class="text-muted">Nhập thông tin sinh viên và trường lớp (Yêu cầu 2)</small>
+                                <small class="text-muted">Nhập thông tin sinh viên và trường lớp</small>
                             </div>
                         </a>
 
@@ -44,7 +44,7 @@
                             <div class="icon-box">🔍</div>
                             <div>
                                 <div class="fw-bold">Tìm kiếm cơ bản</div>
-                                <small class="text-muted">Xem thông tin CMND, Họ tên, Email, SĐT (Yêu cầu 3.1)</small>
+                                <small class="text-muted">Xem thông tin CMND, Họ tên, Email, SĐT </small>
                             </div>
                         </a>
 
@@ -52,7 +52,7 @@
                             <div class="icon-box">📊</div>
                             <div>
                                 <div class="fw-bold">Thống kê Việc làm</div>
-                                <small class="text-muted">Chi tiết tốt nghiệp và tình hình công việc (Yêu cầu 3.2)</small>
+                                <small class="text-muted">Chi tiết tốt nghiệp và tình hình công việc </small>
                             </div>
                         </a>
                     </div>
